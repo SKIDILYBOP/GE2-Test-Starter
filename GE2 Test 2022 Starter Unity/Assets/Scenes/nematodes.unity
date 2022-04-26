@@ -472,8 +472,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 027b60df30e489941a1246b78858d5be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  length: 20
+  length: 5
   material: {fileID: 2100000, guid: 6e4fc4decf74e1c45909682693921aee, type: 2}
+  SphereRange: 0
+  spacing: {x: 1, y: 0, z: 0}
 --- !u!114 &5372656057005222719
 MonoBehaviour:
   m_ObjectHideFlags: 0
